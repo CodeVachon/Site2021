@@ -1,0 +1,7 @@
+/build/
+/coverage/
+/db/
+/docs/
+/node_modules/
+/public/
+prettier.config.js
